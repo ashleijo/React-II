@@ -4,9 +4,9 @@ class SearchBar extends Component {
 
   render() {
     return (
-      <div>
-        hiya
-      </div>
+      <form>
+      <input type="text" placeholder="Search..." />
+      </form>
     );
   }
 
